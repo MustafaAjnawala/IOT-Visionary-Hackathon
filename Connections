@@ -1,0 +1,8 @@
+#Connections
+(Gyro) ------ ESP32
+SCL            D22
+SDA            D21
+VCC            3V3
+GND            GND
+
+Buzzer Positive to D13
